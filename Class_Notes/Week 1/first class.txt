@@ -1,0 +1,10 @@
+First day notes
+
+-Syllabus: paulconrad.net
+-book: Java How to Program
+
+Lecture Notes:
+-Java interpreter translates java code to machine code. Java virtual machine enables this. 
+-Intel and AMD processors apparently have the same architecture. 
+-1GHz means a clock cycle takes one billionth of a second
+-
